@@ -1,0 +1,34 @@
+#Title:  Christopher's School Approved URL List
+#
+#This hosts file is a single repository for all approved domains for Christopher's school computer,
+#white can be updated and pulled by running pihole-g from an SSH connection to the Pi-Hole server,
+#or by updating the Gravity Lists online via the web interface.
+#
+#=============================================
+#            SCHOOL-SPECIFIC URLs
+#=============================================
+(\.|^)zoom\.com$
+(\.|^)pearson\.com$
+(\.|^)connexus\.com$
+(\.|^)pearsoncmg\.com$
+(\.|^)google\.com$
+(\.|^)googleapis\.com$
+(\.|^)googlevideo\.com$
+(\.|^)learnosity\.com$
+(\.|^)typing\.com$
+(\.|^)edynamiclearningcdn\.com$
+
+#=============================================
+#            WINDOWS UPDATE URLs
+#=============================================
+www.msftncsi.com
+www.msftconnecttest.com
+(\.|^)windowsupdate\.com$
+(\.|^)update.microsoft\.com$
+windowsupdate.microsoft.com
+ntservicepack.microsoft.com
+wusat.windows.com
+crl.microsoft.com
+sls.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
