@@ -3,15 +3,7 @@
 #This hosts file is a single repository for all approved domains for Christopher's school computer,
 #whitelist can be updated and pulled by running pihole-g from an SSH connection to the Pi-Hole server,
 #or by updating the Gravity Lists online via the web interface.  Regex domain entries are managed through domain script.
-#
-#=============================================
-#            SCHOOL-SPECIFIC URLs
-#=============================================
-#
-#
-#=============================================
-#            WINDOWS UPDATE URLs
-#=============================================
+
 www.msftncsi.com
 www.msftconnecttest.com
 windowsupdate.microsoft.com
