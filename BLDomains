@@ -1,1 +1,8 @@
-
+#THIS FILE CONTAINS MY PERSONAL BLACKLISTED DOMAINS
+#
+(\.|^)cdn\.spotxcdn\.com$	
+(\.|^)ads\.api\.vungle\.com$
+(\.|^)fp\.msedge\.net$
+(\.|^)v20\.events\.data\.microsoft\.com$	
+(\.|^)cdn\.adnxs\.com$
+(\.|^)widgets\.outbrain\.com$	
