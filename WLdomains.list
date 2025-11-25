@@ -18,4 +18,4 @@
 (\.|^)update.microsoft\.com$
 (\.|^)ixl\.com$
 (\.|^)gg4l\.com$
-(\.|^)sso\.gg4l.\com$
+^(\.|^)sso\.gg4l\.com$
