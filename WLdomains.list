@@ -18,4 +18,9 @@
 (\.|^)update.microsoft\.com$
 (\.|^)ixl\.com$
 (\.|^)gg4l\.com$
-^(\.|^)sso\.gg4l\.com$
+(\.|^)sso\.gg4l\.com$
+(\.|^)login.live\.com$
+(\.|^)*live\.com$
+(\.|^)*microsoft\.com$
+(\.|^)*.bing\.com$
+(\.|^)*.microsoft365\.com$
